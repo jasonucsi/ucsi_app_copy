@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UCSIPay</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">VP4R_WBTm3ktuCZK8qxK-N_3lQWig0cs6BGRA</string>
+</resources>

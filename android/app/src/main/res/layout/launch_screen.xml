@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ucsi_splash_background"
+    >
+    <!-- android:background="#FFFFFF" -->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="false"
+        android:cropToPadding="false"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:paddingBottom="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ucsi_white_logo"
+        app:srcCompat="@drawable/ucsi_white_logo"
+         />
+        <!-- android:background="#FFFFFF" -->
+     <!-- android:background="@drawable/ucsi_splash_background"  -->
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:ems="10"
+        android:gravity="bottom|center_horizontal"
+        android:inputType="textPersonName"
+        android:paddingBottom="10dp"
+        android:text="Copyright © UCSI Pay All Rights Reserved."
+        android:textColor="#fff"
+        android:textStyle="italic" />
+
+</RelativeLayout>

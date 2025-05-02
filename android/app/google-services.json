@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "711335305311",
+    "project_id": "ucsi-ewallet",
+    "storage_bucket": "ucsi-ewallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711335305311:android:e71acadf872a7263207bea",
+        "android_client_info": {
+          "package_name": "com.ucsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711335305311-ph544oglpk0m0u85qm5r7sj9oodlovhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbs2lSn2yqLJsqOo-YbXDWlDOVu0a8mVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711335305311-ph544oglpk0m0u85qm5r7sj9oodlovhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711335305311-u3oghme9leudfj7l5cptrfpoddn503b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ucsi-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
